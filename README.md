@@ -16,7 +16,3 @@ The topics that covered by weeks :
 | 2  | Propositional Equivalences , Predicates and Quantifiers  |
 | 3  | Nested Quantifiers , Rules of Inference  |
 | 4  | Introduction to Proofs , Proof Methods and Strategy  |
-
-| test | test 1 |
-| --- | --- |
-| topic 1 | topic 2 |
