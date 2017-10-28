@@ -11,7 +11,7 @@ Discrete Mathematics and Its Applications , MCGraw hill , Kenneth H. Rosen
 The topics that covered by weeks :
 | week | topic | Extra |
 | --- | --- | --- |
-| 1 | Propositional Logic , Applications of Propositional Logic |  
-| 2 | Propositional Equivalences , Predicates and Quantifiers |  
-| 3 | Nested Quantifiers , Rules of Inference |  
+| 1 | Propositional Logic , Applications of Propositional Logic |
+| 2 | Propositional Equivalences , Predicates and Quantifiers |
+| 3 | Nested Quantifiers , Rules of Inference |
 | 4 | Introduction to Proofs , Proof Methods and Strategy |  
