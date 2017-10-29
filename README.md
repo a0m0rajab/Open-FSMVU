@@ -4,10 +4,10 @@ Discrete structure is a lesson in the computer engineering at university  .
 
 In tihs Repository I will write the Topics that covered at the lesson share home works and lab projects.
 
-Course book : 
-Discrete Mathematics and Its Applications
-publisher : MC Graw hill
-Auther :Kenneth H. Rosen
+Course book :
+Discrete Mathematics and Its Applications.
+publisher : MC Graw hill.
+Auther :Kenneth H. Rosen.
 
 
 The topics that covered by weeks :
