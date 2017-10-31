@@ -3,9 +3,11 @@ package ayrikyapilar;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
+// Mihăilescu's theorem
+
 
 /**
- *
+ * 
  * @author abdurrahman Rajab
  */
 public class abdurrahmanRajabPerfectPower {
