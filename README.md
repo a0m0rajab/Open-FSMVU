@@ -30,3 +30,5 @@ Its A lesson in the university were we learn about the basic data structures lik
 | 2  | Linked List and generic classes |
 | 3  | Stack its implementation and usage   |
 | 4  | Queue its implementation and usage  |
+| 5  |searching - hashing and chaining  |
+
