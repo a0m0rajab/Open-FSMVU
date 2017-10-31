@@ -20,3 +20,13 @@ The topics that covered by weeks :
 | 2  | Propositional Equivalences , Predicates and Quantifiers  |
 | 3  | Nested Quantifiers , Rules of Inference  |
 | 4  | Introduction to Proofs , Proof Methods and Strategy  |
+
+# Data structure 
+Its A lesson in the university were we learn about the basic data structures like queue , stack , etc.
+
+| week  | topic | Extra |
+| --- | --- | --- |
+| 1  | Big O rotation and algorithm analyses  |
+| 2  | Linked List and generic classes |
+| 3  | Stack its implementation and usage   |
+| 4  | Queue its implementation and usage  |
