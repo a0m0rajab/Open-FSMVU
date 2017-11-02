@@ -3,9 +3,28 @@ package ayrikyapilar;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-// Mihăilescu's theorem
+/*
+in this HomeWork we were asked to prove : 
+Mihăilescu's theorem 
+which means that there is no consecutively perfect power but 9 and 8
+
+in this program finds a consecutive positive integers not exceeding a predefined number that are perfect powers. 
+how the program works : 
+
+         1- getting the boundary from the user 
+         2- looping to get the perfect power of the
+            numbers from 1 till the root of the boundary
+         3- checking if the is smaller or greater thean it .
+         4- checking if the arraylist contain the number 
+         5- add it to the array list 
+         6- sort arraylist
+         7- print the arraylist out
+         8- check if the numbers are consecutive by using the method of 
+            x and y are consecutive if x+1=y .
+         */
 
 
+*/
 /**
  * 
  * @author abdurrahman Rajab
@@ -17,20 +36,8 @@ public class abdurrahmanRajabPerfectPower {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        /**
-         * in this program finds a consecutive positive integers not exceeding a
-         * predefined number that are perfect powers. the step is :
-         * 1- getting the number from the user 
-         * 2- looping to get the perfect power of the
-         * numbers from 1 till the root of the boundary
-         * 3- checking if the is smaller or greater thean it .
-         * 4- checking if the arraylist contain the number 
-         * 5- add it to the array list 
-         * 6- sort arraylist
-         * 7- print the arraylist down
-         * 8- check if the numbers are consecutive by using the method of 
-         *  x and y are consecutive if x+1=y .
-         */
+
+        
 
         // using the array list to save the perfect powers 
         ArrayList perfectPowerList = new ArrayList();
