@@ -12,10 +12,13 @@ and at the files you can find the Lessons Curriculms .
 # Computer Engineering 
 is a four year study with a lot of practise and Labs to do 
 
-## First year  
-|Lesson Name |Semester | bried info |
-| --- | --- | --- | 
-| Programming Languages 1  | 1 | Basic JAVA language  | 
+## First year
+In the first year you learn the basic programming syntax and Main university courses related to engineering like Mathematics .
+
+### First semester 
+|Lesson Name | | bried info |
+| --- |  | --- | 
+| Programming Languages 1  |  | Basic JAVA language  | 
 
 ## Second year 
 
