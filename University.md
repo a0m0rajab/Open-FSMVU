@@ -16,9 +16,9 @@ is a four year study with a lot of practise and Labs to do
 In the first year you learn the basic programming syntax and Main university courses related to engineering like Mathematics .
 
 ### First semester 
-|Lesson Name | | bried info |
-| --- |  | --- | 
-| Programming Languages 1  |  | Basic JAVA language  | 
+|Lesson Name | bried info |
+| --- | --- | 
+| Programming Languages 1  | Basic JAVA language  | 
 
 ## Second year 
 
