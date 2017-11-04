@@ -35,7 +35,7 @@ In the first year you learn the basic programming syntax and Main university cou
 ## Second year 
 
 ### First semester 
-|Lesson Name | bried info |
+|Lesson Name | brief info |
 | --- | --- | 
 | Discrete Structures | ---  | 
 | Design Software | to-fill-soon  |
