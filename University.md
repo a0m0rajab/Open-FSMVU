@@ -19,11 +19,16 @@ In the first year you learn the basic programming syntax and Main university cou
 |Lesson Name | bried info |
 | --- | --- | 
 | Programming Languages 1  | Basic JAVA language  | 
+| Physic 1  | to-fill-soon  |
+| Mathematics 1  | to-fill-soon  |
+
 
 ### Second semester 
 |Lesson Name | bried info |
 | --- | --- | 
 | Programming Languages 2  | Intro to DataBase SQL and GUI with JAVA  | 
+| Physic 2  | to-fill-soon  | 
+| Mathematics  2  | to-fill-soon  |
 
 ## Second year 
 
