@@ -34,6 +34,21 @@ In the first year you learn the basic programming syntax and Main university cou
 
 ## Second year 
 
+### First semester 
+|Lesson Name | bried info |
+| --- | --- | 
+| Discrete Structures | ---  | 
+| Design Software | to-fill-soon  |
+| Digital  Systems  | to-fill-soon  |
+| Electric Circuits | to-fill-soon  |
+
+
+### Second semester 
+|Lesson Name | bried info |
+| --- | --- | 
+| Statistics and Probability  |---  | 
+| Data Structures  | to-fill-soon  | 
+| Oral and Written Communication in Engineering  | to-fill-soon  |
 
 ## Third year 
 
