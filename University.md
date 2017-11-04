@@ -44,7 +44,7 @@ In the first year you learn the basic programming syntax and Main university cou
 
 
 ### Second semester 
-|Lesson Name | bried info |
+|Lesson Name | brief info |
 | --- | --- | 
 | Statistics and Probability  |---  | 
 | Data Structures  | to-fill-soon  | 
