@@ -21,6 +21,7 @@ In the first year you learn the basic programming syntax and Main university cou
 | Programming Languages 1  | Basic JAVA language  | 
 | Physic 1  | to-fill-soon  |
 | Mathematics 1  | to-fill-soon  |
+| introduction to computer engineering  | to-fill-soon  |
 
 
 ### Second semester 
@@ -29,6 +30,7 @@ In the first year you learn the basic programming syntax and Main university cou
 | Programming Languages 2  | Intro to DataBase SQL and GUI with JAVA  | 
 | Physic 2  | to-fill-soon  | 
 | Mathematics  2  | to-fill-soon  |
+
 
 ## Second year 
 
