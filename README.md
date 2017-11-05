@@ -39,7 +39,7 @@ we are taking LabView and making a few applications on it at this lesson  .
 | week  | topic | Extra |
 | --- | --- | --- |
 | 1  | Introduction to the program and defining the Variables, comparing with normal programming languages   |
-| 2  | Linked List and generic classes |
+| 2  | Arrays , index array , Loops  |
 | 3  | Stack its implementation and usage   |
 | 4  | Queue its implementation and usage  |
 | 5  |searching - hashing and chaining  |
