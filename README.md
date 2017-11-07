@@ -29,11 +29,13 @@ Its A lesson in the university were we learn about the basic data structures lik
 
 | week  | topic | Extra |
 | --- | --- | --- |
-| 1  | Big O rotation and algorithm analyses  |
-| 2  | Linked List and generic classes |
-| 3  | Stack its implementation and usage   |
-| 4  | Queue its implementation and usage  |
-| 5  |searching - hashing and chaining  |
+| 1 | Introduction to the Lesson and where to use Data Structure|
+| 2  | Big O rotation and algorithm analyses  |
+| 3  | Linked List and generic classes |
+| 4  | Stack its implementation and usage   |
+| 5  | Queue its implementation and usage  |
+| 6 | searching - hashing and chaining | 
+| 7 | Recursive functions , searching algorithms and sorting | 
 
 # Desgin-Software
 we are taking LabView and making a few applications on it at this lesson  .
@@ -42,7 +44,9 @@ we are taking LabView and making a few applications on it at this lesson  .
 | --- | --- | --- |
 | 1  | Introduction to the program and defining the Variables, comparing with normal programming languages   |
 | 2  | Arrays , index array , Loops  |
-| 3  | Stack its implementation and usage   |
-| 4  | Queue its implementation and usage  |
-| 5  |searching - hashing and chaining  |
+| 3  |   |
+| 4  |   |
+| 5  |  |
+| 6 | ||to add again later | 
+| 7 | || to add this week  | 
 
