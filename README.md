@@ -1,3 +1,9 @@
+> To Add later : 
+> Why its useful to read it . 
+> how to use this repo 
+> how can you help 
+> where are our students 
+
 # discrete-structure
 Discrete structure is a lesson in the computer engineering at university  .
 
