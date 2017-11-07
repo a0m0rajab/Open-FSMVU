@@ -44,7 +44,7 @@ we are taking LabView and making a few applications on it at this lesson  .
 | --- | --- | --- |
 | 1  | Introduction to the program and defining the Variables, comparing with normal programming languages   |
 | 2  | Arrays , index array , Loops  |
-| 3  |   |
+| 3  |  Cluster Data type and bundles  |
 | 4  |   |
 | 5  |  |
 | 6 | ||to add again later | 
