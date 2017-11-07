@@ -22,6 +22,7 @@ The topics that covered by weeks :
 | 4  | Introduction to Proofs , Proof Methods and Strategy  |
 | 5 | Basic Structures: Sets, Functions,Sequences, Sums, and Matrices | 
 | 6 | Basic Structures: Sets, Functions,Sequences, Sums, and Matrices | 
+| 7 | Algorithms | 
 
 # Data structure 
 Its A lesson in the university were we learn about the basic data structures like queue , stack , etc.
