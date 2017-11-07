@@ -20,8 +20,8 @@ The topics that covered by weeks :
 | 2  | Propositional Equivalences , Predicates and Quantifiers  |
 | 3  | Nested Quantifiers , Rules of Inference  |
 | 4  | Introduction to Proofs , Proof Methods and Strategy  |
-| 5 | Basic Structures: Sets, Functions,Sequences, Sums, and Matrices | 
-| 6 | Basic Structures: Sets, Functions,Sequences, Sums, and Matrices | 
+| 5 | Basic Structures: Sets, Functions and Sequences | 
+| 6 | Basic Structures:  Functions, Sums, and Matrices | 
 | 7 | Algorithms | 
 
 # Data structure 
