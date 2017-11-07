@@ -21,6 +21,7 @@ The topics that covered by weeks :
 | 3  | Nested Quantifiers , Rules of Inference  |
 | 4  | Introduction to Proofs , Proof Methods and Strategy  |
 | 5 | Basic Structures: Sets, Functions,Sequences, Sums, and Matrices | 
+| 6 | Basic Structures: Sets, Functions,Sequences, Sums, and Matrices | 
 
 # Data structure 
 Its A lesson in the university were we learn about the basic data structures like queue , stack , etc.
