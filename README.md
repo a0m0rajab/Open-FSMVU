@@ -29,7 +29,7 @@ The topics that covered by weeks :
 | 5 | Basic Structures: Sets, Functions and Sequences | 
 | 6 | Basic Structures:  Functions, Sums, and Matrices | 
 | 7 | Algorithms | 
-
+| 8 | Mid-Term Exams week  | 
 # Data structure 
 Its A lesson in the university were we learn about the basic data structures like queue , stack , etc.
 
@@ -42,6 +42,7 @@ Its A lesson in the university were we learn about the basic data structures lik
 | 5  | Queue its implementation and usage  |
 | 6 | searching - hashing and chaining | 
 | 7 | Recursive functions , searching algorithms and sorting | 
+| 8 | Mid-Term Exams week  | 
 
 # Desgin-Software
 we are taking LabView and making a few applications on it at this lesson  .
