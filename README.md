@@ -55,6 +55,20 @@ we are taking LabView and making a few applications on it at this lesson  .
 | 4  |  Cluster Data type and bundles  |
 | 5  |  Case Structure and if condition |
 | 6  |  sequences local variables .  |
-| 7 | **to add again later** | 
+| 7 | Clusters and Arrays , the differnce and usage | 
+| 8 | Mid-Term Exams week  | 
+
+# Electrical circuit analysis
+Electrical circuit is the core of any device understanding them is important for our feild , you cant build an autonoum vechile witohut using it  .
+
+| week  | topic | Extra |
+| --- | --- | --- |
+| 1 | Intoduction to Electric , Current and Voltage .  |
+| 2 |   Ohms Law and Power , Kirchhoffs Circuit Law  |
+| 3 |  Resistance calculating series and parallel  |
+| 4 |  Loop and nodal analysis  |
+| 5 |  Thevenin and norton Laws  |
+| 6 |  Max power transfer , super position   |
+| 7 | Solving problems  | 
 | 8 | Mid-Term Exams week  | 
 
