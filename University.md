@@ -34,7 +34,7 @@ In the first year you learn the basic programming syntax and Main university cou
 
 ## Second year 
 
-### First semester 
+### Third semester 
 |Lesson Name | brief info |
 | --- | --- | 
 | Discrete Structures | ---  | 
@@ -43,7 +43,7 @@ In the first year you learn the basic programming syntax and Main university cou
 | Electric Circuits | to-fill-soon  |
 
 
-### Second semester 
+### Forth semester 
 |Lesson Name | brief info |
 | --- | --- | 
 | Statistics and Probability  |---  | 
