@@ -30,6 +30,9 @@ The topics that covered by weeks :
 | 6 | Basic Structures:  Functions, Sums, and Matrices | 
 | 7 | Algorithms | 
 | 8 | Mid-Term Exams week  | 
+| 9 | Cryptography and number theory |
+| 10| Cryptography and number theory |
+
 # Data structure 
 Its A lesson in the university were we learn about the basic data structures like queue , stack , etc.
 
@@ -43,6 +46,8 @@ Its A lesson in the university were we learn about the basic data structures lik
 | 6 | searching - hashing and chaining | 
 | 7 | Recursive functions , searching algorithms and sorting | 
 | 8 | Mid-Term Exams week  | 
+|9| Trees and its implementation |
+|10| Heap tree usage and implementation |
 
 # Desgin-Software
 we are taking LabView and making a few applications on it at this lesson  .
@@ -57,6 +62,8 @@ we are taking LabView and making a few applications on it at this lesson  .
 | 6  |  sequences local variables .  |
 | 7 | Clusters and Arrays , the differnce and usage | 
 | 8 | Mid-Term Exams week  | 
+|9| Sub LabView - sub VI  |
+|10| to ADD later  |
 
 # Electrical circuit analysis
 Electrical circuit is the core of any device understanding them is important for our feild , you cant build an autonoum vechile witohut using it  .
@@ -71,4 +78,6 @@ Electrical circuit is the core of any device understanding them is important for
 | 6 |  Max power transfer , super position   |
 | 7 | Solving problems  | 
 | 8 | Mid-Term Exams week  | 
+|9| inductance |
+|10|waiting lol |
 
