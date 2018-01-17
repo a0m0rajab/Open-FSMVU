@@ -1,7 +1,11 @@
 > To Add later : 
+
 > Why its useful to read it . 
+
 > how to use this repo 
+
 > how can you help 
+
 > where are our students 
 
 # discrete-structure
@@ -32,9 +36,9 @@ The topics that covered by weeks :
 | 8 | Mid-Term Exams week  | 
 | 9 | Cryptography and number theory |
 | 10| Cryptography and number theory |
-| 11 || 
-| 12 ||
-| 13 ||
+| 11 |induction and recursion | 
+| 12 |counting |
+| 13 |counting and graph |
 
 # Data structure 
 Its A lesson in the university were we learn about the basic data structures like queue , stack , etc.
@@ -51,9 +55,9 @@ Its A lesson in the university were we learn about the basic data structures lik
 | 8 | Mid-Term Exams week  | 
 |9| Trees and its implementation |
 |10| Heap tree usage and implementation |
-| 11 || 
-| 12 ||
-| 13 ||
+| 11 |cancelled | 
+| 12 | depth first search and breadth first search |
+| 13 | Huffman Coding and lempelziv|
 
 # Desgin-Software
 we are taking LabView and making a few applications on it at this lesson  .
