@@ -99,3 +99,28 @@ Electrical circuit is the core of any device understanding them is important for
 | 12 ||
 | 13 ||
 
+# Formal Languages and Automata Theory
+
+Course book :
+Introduction to Automata Theory, Languages, and Computation [http://infolab.stanford.edu/~ullman/ialc.html]
+
+publisher : MC Graw hill.
+
+Auther :Hopcroft, Motwani, Ullman.
+
+| week  | topic | Extra |
+| --- | --- | --- |
+|1	|Languages and Automata |
+|2	|Finite Automata |
+|3 |Non-deterministic Finite Automata |
+|4	|Regular Expressions |
+|5	|Regular Languages & Properties |
+|6 |Context-Free Languages -- Quiz |
+|7 |Pushdown Automata |
+|8 |(midterm) |
+|9 |Toy language: microJ |
+|10|Turing Machines |
+|11|Decision Problems: P and NP |
+|12|Easy Problems in Graph Theory |
+|13|Hard Problems in Graph Theory |
+
