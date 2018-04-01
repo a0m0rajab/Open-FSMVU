@@ -100,9 +100,11 @@ Electrical circuit is the core of any device understanding them is important for
 | 13 ||
 
 # Formal Languages and Automata Theory
+professor: 
+[Mehmet Akif Eyler (Eğler)](http://mimoza.marmara.edu.tr/~maeyler/)
 
-Course book :
-Introduction to Automata Theory, Languages, and Computation [http://infolab.stanford.edu/~ullman/ialc.html]
+book :
+[Introduction to Automata Theory, Languages, and Computation](http://infolab.stanford.edu/~ullman/ialc.html)
 
 publisher : MC Graw hill.
 
