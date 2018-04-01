@@ -1,12 +1,14 @@
-> To Add later : 
+To Do list :
+- [ ] first semester lessons 
+- [ ] second semester compleete lessons .
+- [ ] third semester compleete lessons .
+- [ ] forth semester compleete lessons .
+- [ ] information about university 
+- [ ] Why its useful to read it . 
+- [ ] how to use this repo 
+- [ ] how can you it help 
+- [ ] where are our students 
 
-> Why its useful to read it . 
-
-> how to use this repo 
-
-> how can you help 
-
-> where are our students 
 
 # discrete-structure
 Discrete structure is a lesson in the computer engineering at university  .
@@ -96,3 +98,4 @@ Electrical circuit is the core of any device understanding them is important for
 | 11 || 
 | 12 ||
 | 13 ||
+
