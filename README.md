@@ -106,8 +106,6 @@ professor:
 book :
 [Introduction to Automata Theory, Languages, and Computation](http://infolab.stanford.edu/~ullman/ialc.html)
 
-publisher : MC Graw hill.
-
 Auther :Hopcroft, Motwani, Ullman.
 
 | week  | topic | Extra |
