@@ -48,6 +48,7 @@ is a four year practical program.
 In the first year you learn the basic programming syntax and Main university courses related to engineering like Mathematics .
 
 ### First semester 
+
 | Lesson Name                          | brief info                                                   |
 | ------------------------------------ | ------------------------------------------------------------ |
 | Programming Languages 1              | Basic JAVA language                                          |
@@ -56,7 +57,8 @@ In the first year you learn the basic programming syntax and Main university cou
 | introduction to computer engineering | brief history about computing and Computer engineering major |
 
 
-### Second semester 
+### Second semester
+
 | Lesson Name             | brief info                              |
 | ----------------------- | --------------------------------------- |
 | Programming Languages 2 | Intro to DataBase SQL and GUI with JAVA |
@@ -67,6 +69,7 @@ In the first year you learn the basic programming syntax and Main university cou
 ## Second year 
 
 ### Third semester 
+
 | Lesson Name         | brief info                         |
 | ------------------- | ---------------------------------- |
 | Discrete Structures | ---                                |
@@ -76,6 +79,7 @@ In the first year you learn the basic programming syntax and Main university cou
 
 
 ### Forth semester 
+
 | Lesson Name                                   | brief info   |
 | --------------------------------------------- | ------------ |
 | Statistics and Probability                    | ---          |
