@@ -50,7 +50,7 @@ In the first year you learn the basic programming syntax and Main university cou
 ### First semester 
 
 | Lesson Name                          | brief info                                                   |
-| ------------------------------------ | ------------------------------------------------------------ |
+| --- | --- |
 | Programming Languages 1              | Basic JAVA language                                          |
 | Physic 1                             | Serway 1                                                     |
 | Mathematics 1                        | calculus 1                                                   |
@@ -60,7 +60,7 @@ In the first year you learn the basic programming syntax and Main university cou
 ### Second semester
 
 | Lesson Name             | brief info                              |
-| ----------------------- | --------------------------------------- |
+| --- | --- |
 | Programming Languages 2 | Intro to DataBase SQL and GUI with JAVA |
 | Physic 2                | serway 2                                |
 | Mathematics  2          | calculus 2                              |
@@ -71,8 +71,8 @@ In the first year you learn the basic programming syntax and Main university cou
 ### Third semester 
 
 | Lesson Name         | brief info                         |
-| ------------------- | ---------------------------------- |
-| Discrete Structures | ---                                |
+| --- | --- |
+| Discrete Structures |                                 |
 | Design Software     | An introduction to LabView program |
 | Digital  Systems    | to-fill-soon                       |
 | Electric Circuits   | to-fill-soon                       |
@@ -81,8 +81,8 @@ In the first year you learn the basic programming syntax and Main university cou
 ### Forth semester 
 
 | Lesson Name                                   | brief info   |
-| --------------------------------------------- | ------------ |
-| Statistics and Probability                    | ---          |
+| --- | --- |
+| Statistics and Probability                    |           |
 | Data Structures                               | to-fill-soon |
 | Oral and Written Communication in Engineering | to-fill-soon |
 
