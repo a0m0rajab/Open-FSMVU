@@ -87,7 +87,9 @@ In the first year you learn the basic programming syntax and Main university cou
 | Oral and Written Communication in Engineering | to-fill-soon |
 
 ## Third year 
-
+| Lesson Name                                   | brief info   |
+| --- | --- |
+| Network                              | to-fill-soon |
 
 ## Fourth year 
 
