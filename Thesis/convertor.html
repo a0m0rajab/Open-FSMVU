@@ -80,9 +80,23 @@
        function chapter(match){
         return `\\chapter{${match.substring(1,match.length-1)}}\n`
        }
+       function figure(match){
+         let firstindex= match.indexOf("{");
+         let secondIndex=   match.indexOf("}"); 
+       return `\\begin{figure}[h]
+    \\centering
+     \\shorthandoff{=}
+    \\includegraphics[width=\\textwidth]{images/${match.substring(firstindex+2,secondIndex)}}
+     \\shorthandon{=}
+    \\caption{${match.substring(secondIndex+1,match.length-1)}}
+    \\label{}
+\\end{figure}`
+      
+       }
        function convert(){
            turk()
            after.value= after.value.replace(/#(.*?)\n/g,chapter);
+           after.value= after.value.replace(/@foto{(.*)}/g,figure);
        }
 let tr = [{key:'\\u{g}',value:'ğ'},{key:'\\u{G}',value:'Ğ'},{key:'\\c{c}',value:'ç'},{key:'\\c{C}',value:'Ç'},{key:'\\c{s}',value:'ş'},{key:'\\c{S}',value:'Ş'},{key:'\\"{u}',value:'ü'},{key:'\\"{U}',value:'Ü'},{key:'\\"{o}',value:'ö'},{key:'\\"{O}',value:'Ö'},{key:'\\i{}',value:'ı'},{key:'\\.{I}',value:'İ'}];
        function turk(){
@@ -107,6 +121,7 @@ let tr = [{key:'\\u{g}',value:'ğ'},{key:'\\u{G}',value:'Ğ'},{key:'\\c{c}',valu
 Ö
 ı
 İ
+@foto{ornekEkran.png}{caption}
 #deneme
 #134
 merhaba`
