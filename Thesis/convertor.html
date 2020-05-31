@@ -79,17 +79,25 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     <script>
-        function chapter(match) {
-            return `\\chapter{${match.substring(1,match.length-1)}}\n`
+        function chapter(match,type) {
+            return `\\${type}{${titleCase(match.trim())}}\n`
         }
+
+        function titleCase(str) {
+   let splitStr = str.toLowerCase().split(' ');
+   for (let i = 0; i < splitStr.length; i++) {
+       splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);     
+   }
+   return splitStr.join(' '); 
+}
 
         function figure(match) {
             let firstindex = match.indexOf("{");
             let secondIndex = match.indexOf("}");
-            return `\\begin{figure}[h]
+            return `\\begin{figure}[H]
     \\centering
      \\shorthandoff{=}
-    \\includegraphics[width=\\textwidth]{images/${match.substring(firstindex+2,secondIndex)}}
+    \\includegraphics[width=0.5\\textwidth]{images/${match.substring(firstindex+1,secondIndex)}}
      \\shorthandon{=}
     \\caption{${match.substring(secondIndex+2,match.length-1)}}
     \\label{}
@@ -99,7 +107,10 @@
 
         function convert() {
             turk()
-            after.value = after.value.replace(/#(.*?)\n/g, chapter);
+            after.value = after.value.replace(/#{4}(.*?)\n/g, (match) => chapter(match.substring(4,match.length-1),"subsubsection"));
+            after.value = after.value.replace(/#{3}(.*?)\n/g, (match) => chapter(match.substring(3,match.length-1),"subsection"));
+            after.value = after.value.replace(/#{2}(.*?)\n/g, (match) => chapter(match.substring(2,match.length-1),"section"));
+            after.value = after.value.replace(/#{1}(.*?)\n/g, (match) => chapter(match.substring(1,match.length-1),"chapter"));
             after.value = after.value.replace(/@foto{(.*)}/g, figure);
         }
         let tr = [{
@@ -149,7 +160,13 @@
                 temp = after.value;
             }
         }
+       
         let example = `#Giriş 
+        ## Section
+        ### Subsection
+        #### Sub subsection
+        #            title case o mu?       
+        ##  öyle şöyle şahane
 ğ
 Ğ
 ç
