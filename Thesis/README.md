@@ -4,7 +4,7 @@
   - [writing my Thesis](#writing-my-thesis)
     - [First Rund](#first-rund)
     - [Second Round](#second-round)
-    - [The twist (TD;DR)](#the-twist-tddr)
+    - [The twist (TL;DR)](#the-twist-tldr)
     - [Writing process](#writing-process)
     - [Tools](#tools)
       - [LaTeX](#latex)
@@ -39,7 +39,7 @@ I could not have a high quality and good thesis at this time, I hardly wrote 8 p
 
 At this time I have changed my methodology to write the thesis started by answering the questions that was facing before which answering them helped me to do the job in the way that i like, prefer and even value. Getting to change my ideas and the way I see the thesis came from the idea of "Doing what is right!" instead of just checking few documenatations that does not give the answers to my question.  
 
-### The twist (TD;DR)
+### The twist (TL;DR)
 
 Answering the questions by my own helped me to write my thesis, beside that I have written few tools to make my life and thesis writing much easiert - I have explained the tools in the next section - for the question asnwers it was like this: 
 
