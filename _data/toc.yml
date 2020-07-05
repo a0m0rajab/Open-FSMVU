@@ -1,0 +1,37 @@
+- title: "Courses Outline"
+  url: "outline"
+  children:
+    - title: discrete structure
+      url: "outline/#1-discrete-structure"
+    - title: Data structure
+      url: "outline/#2-data-structure"
+    - title: Desgin-Software
+      url: "outline/#3-desgin-software"
+    - title: Electrical circuit analysis
+      url: "outline/#4-electrical-circuit-analysis"
+    - title: Formal Languages and Automata Theory
+      url: "outline/#5-formal-languages-and-automata-theory"
+    - title: Advanced Programming Techniques
+      url: "outline/#6-advanced-programming-techniques"
+- title: "First Year"
+  children:
+    - title: discrete structure
+      url: "outline/#1-discrete-structure"
+- title: "Second Year"
+  children:
+    - title: discrete structure
+      url: "outline/#1-discrete-structure"
+- title: "Third Year"
+  children:
+    - title: discrete structure
+      url: "outline/#1-discrete-structure"
+- title: "Fourth Year"
+  children:
+    - title: discrete structure
+      url: "outline/#1-discrete-structure"
+- title: "Extra Curricular"
+  children:
+    - title: Erasmus
+      url: "outline/#1-discrete-structure"
+    - title: Clubs
+      url: "outline/#1-discrete-structure"

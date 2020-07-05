@@ -41,7 +41,7 @@ dockerhub: a0m0rajab
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 34
-color: "#8c1515" # primary color for header, buttons
+color: blue # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
