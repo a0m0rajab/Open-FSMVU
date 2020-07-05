@@ -9,7 +9,7 @@ This project was made as a way to help students to learn more and interact with 
 
 ## Support
 
-If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_repo }}/{{ site.github_user }}).
+If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}).
 
 ## Contribute 
 
@@ -26,3 +26,15 @@ This website has made by using this template for a mkdocs jekyll theme:
  - [vsoch/mkdocs-jekyll](https://github.com/vsoch/mkdocs-jekyll)
  
 
+## To Do list :
+-  Online moocs that can help 
+-  first semester lessons 
+-  second semester compleete lessons .
+-  third semester compleete lessons .
+-  forth semester compleete lessons .
+-  information about the university 
+-  Why its useful to read it . 
+-  how to use this repo 
+-  how can you it help 
+-  where are our students 
+-  PreRequirenment

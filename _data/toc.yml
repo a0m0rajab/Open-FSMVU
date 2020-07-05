@@ -1,3 +1,5 @@
+- title: "About"
+  url: "about"
 - title: "Courses Outline"
   url: "outline"
   children:
@@ -27,11 +29,11 @@
       url: "outline/#1-discrete-structure"
 - title: "Fourth Year"
   children:
-    - title: discrete structure
-      url: "outline/#1-discrete-structure"
+    - title: Thesis
+      url: "thesis"
 - title: "Extra Curricular"
   children:
     - title: Erasmus
-      url: "outline/#1-discrete-structure"
+      url: ""
     - title: Clubs
       url: "outline/#1-discrete-structure"
