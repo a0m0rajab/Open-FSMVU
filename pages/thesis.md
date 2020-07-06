@@ -110,13 +110,13 @@ in the thesis i had them like:
 @foto{foto3.png}{caption}
 ```
 
-Then used the [rename shell](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/courses/rename.sh) to get the names of the Images 
+Then used the [rename shell](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/Courses/Thesis/rename.sh) to get the names of the Images 
 
 ## FlowCharts 
 
 For the flow charts I have used **js2flowchart** tool which generate flowcharts based on your javascript code. then used another tool for linux **rsvg-convert** to convert the flowcharts to png and add them to the thesis.
 
-First I have written the whole [codes](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/courses/code) then used a [special shell](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/courses/convert.sh) (again) to get my desired output.
+First I have written the whole [codes](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}/tree/master/Courses/Thesis/codes) then used a [special shell](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/Courses/Thesis/convert.sh) (again) to get my desired output.
 
 ## Citations
 
