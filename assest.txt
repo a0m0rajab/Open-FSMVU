@@ -1,0 +1,6 @@
+Suppourting code, to modify copied PDF table to markdown. 
+
+for (let h of x.split("\n") ){
+   let line= h.split(" ")
+   t += "|" + line[0] + "|" + line[1] + "|" + line.slice(2) + "|\n"
+}

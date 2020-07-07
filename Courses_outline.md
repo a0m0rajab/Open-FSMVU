@@ -1,8 +1,15 @@
----
-layout: page
-title: Courses outline
-permalink: /first_year/
----
+# content
+<!-- TOC -->
+
+- [content](#content)
+- [1. discrete-structure](#1-discrete-structure)
+- [2. Data structure](#2-data-structure)
+- [3. Desgin-Software](#3-desgin-software)
+- [4. Electrical circuit analysis](#4-electrical-circuit-analysis)
+- [5. Formal Languages and Automata Theory](#5-formal-languages-and-automata-theory)
+- [6. Advanced Programming Techniques](#6-advanced-programming-techniques)
+
+<!-- /TOC -->
 
 # 1. discrete-structure
 Discrete structure is a lesson in the computer engineering at university  .
