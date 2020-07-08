@@ -1,18 +1,4 @@
 # Thesis Kuran Rehberi 
-- [Thesis Kuran Rehberi](#thesis-kuran-rehberi)
-  - [introduction](#introduction)
-  - [writing my Thesis](#writing-my-thesis)
-    - [First Rund](#first-rund)
-    - [Second Round](#second-round)
-    - [The twist (TL;DR)](#the-twist-tldr)
-    - [Writing process](#writing-process)
-    - [Tools](#tools)
-      - [LaTeX](#latex)
-      - [Convertor](#convertor)
-      - [Images](#images)
-      - [FlowCharts](#flowcharts)
-      - [Citations](#citations)
-
 
 At this page I am gonna talk about the Thesis writing, program and my self reflection 
 [Bahis Qurani](/BahisQurani)

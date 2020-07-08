@@ -1,53 +1,31 @@
-# content
-<!-- TOC -->
+# Main page
 
-- [content](#content)
-- [Summary:](#summary)
-    - [why this project?](#why-this-project)
-- [Fatih Sultan Mehmet University](#fatih-sultan-mehmet-university)
-- [How to use this Guide](#how-to-use-this-guide)
-- [Computer Engineering](#computer-engineering)
-    - [First year](#first-year)
-        - [First semester](#first-semester)
-        - [Second semester](#second-semester)
-    - [Second year](#second-year)
-        - [Third semester](#third-semester)
-        - [Forth semester](#forth-semester)
-    - [Third year](#third-year)
-    - [Fourth year](#fourth-year)
-    - [To Do list :](#to-do-list)
-
-<!-- /TOC -->
-
-
-
-
-# Summary:
+## Summary:
 This project aim to provide the materials and lessons that taught at Fatish sultan mehmet university to those who can't offer studying on it or who wants to get view on it's education system.
 
 
-## why this project?
+### why this project?
 
 - it will help any student in the world to learn computer engineering online.
 - it provides the basic information about Computer Engineering major for those who have not read or know about it before. 
 - provide an interactive learning atmosphere between instructors and student by making everything clear to them.
 
-# Fatih Sultan Mehmet University 
+## Fatih Sultan Mehmet University 
 FSMVU is a university based in Tukrey teaches a few Majors like Computer Engineering and Biyomedical Engineering.
 
-# How to use this Guide 
+## How to use this Guide 
 This Guide made to show the Curriculum of Computer engineering 
 major in the university and how to study it online ,
 Extra files can be found to show the homeworks and Lessons materials.
 
 
-# Computer Engineering 
+## Computer Engineering 
 is a four year practical program.
 
-## First year
+### First year
 In the first year you learn the basic programming syntax and Main university courses related to engineering like Mathematics .
 
-### First semester 
+#### First semester 
 
 | Lesson Name                          | brief info                                                   |
 | --- | --- |
@@ -57,7 +35,7 @@ In the first year you learn the basic programming syntax and Main university cou
 | introduction to computer engineering | brief history about computing and Computer engineering major |
 
 
-### Second semester
+#### Second semester
 
 | Lesson Name             | brief info                              |
 | --- | --- |
@@ -66,9 +44,9 @@ In the first year you learn the basic programming syntax and Main university cou
 | Mathematics  2          | calculus 2                              |
 
 
-## Second year 
+### Second year 
 
-### Third semester 
+#### Third semester 
 
 | Lesson Name         | brief info                         |
 | --- | --- |
@@ -78,7 +56,7 @@ In the first year you learn the basic programming syntax and Main university cou
 | Electric Circuits   | to-fill-soon                       |
 
 
-### Forth semester 
+#### Forth semester 
 
 | Lesson Name                                   | brief info   |
 | --- | --- |
@@ -86,13 +64,13 @@ In the first year you learn the basic programming syntax and Main university cou
 | Data Structures                               | to-fill-soon |
 | Oral and Written Communication in Engineering | to-fill-soon |
 
-## Third year 
+### Third year 
 
 
-## Fourth year 
+### Fourth year 
 
 
-## To Do list :
+### To Do list :
 - [ ] Online moocs that can help 
 - [ ] first semester lessons 
 - [ ] second semester compleete lessons .

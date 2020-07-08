@@ -1,17 +1,6 @@
-# content
-<!-- TOC -->
+# Outline 
 
-- [content](#content)
-- [1. discrete-structure](#1-discrete-structure)
-- [2. Data structure](#2-data-structure)
-- [3. Desgin-Software](#3-desgin-software)
-- [4. Electrical circuit analysis](#4-electrical-circuit-analysis)
-- [5. Formal Languages and Automata Theory](#5-formal-languages-and-automata-theory)
-- [6. Advanced Programming Techniques](#6-advanced-programming-techniques)
-
-<!-- /TOC -->
-
-# 1. discrete-structure
+## 1. discrete-structure
 Discrete structure is a lesson in the computer engineering at university  .
 
 
@@ -43,7 +32,7 @@ The topics that covered by weeks :
 | 12 |counting |
 | 13 |counting and graph |
 
-# 2. Data structure 
+## 2. Data structure 
 Its A lesson in the university were we learn about the basic data structures like queue , stack , etc.
 
 | week  | topic | Extra |
@@ -62,7 +51,7 @@ Its A lesson in the university were we learn about the basic data structures lik
 | 12 | depth first search and breadth first search |
 | 13 | Huffman Coding and lempelziv|
 
-# 3. Desgin-Software
+## 3. Desgin-Software
 we are taking LabView and making a few applications on it at this lesson  .
 
 | week  | topic | Extra |
@@ -81,7 +70,7 @@ we are taking LabView and making a few applications on it at this lesson  .
 | 12 | Input/output at LAbview by myRIO |
 | 13 |Canceled |
 
-# 4. Electrical circuit analysis
+## 4. Electrical circuit analysis
 Electrical circuit is the core of any device understanding them is important for our feild , you cant build an autonoum vechile witohut using it  .
 
 | week  | topic | Extra |
@@ -100,7 +89,7 @@ Electrical circuit is the core of any device understanding them is important for
 | 12 ||
 | 13 ||
 
-# 5. Formal Languages and Automata Theory
+## 5. Formal Languages and Automata Theory
 professor: 
 [Mehmet Akif Eyler (Eğler)](http://mimoza.marmara.edu.tr/~maeyler/)
 
@@ -125,7 +114,7 @@ Auther :Hopcroft, Motwani, Ullman.
 |12|Easy Problems in Graph Theory |
 |13|Hard Problems in Graph Theory |
 
-# 6. Advanced Programming Techniques
+## 6. Advanced Programming Techniques
 professor: 
 [Mehmet Akif Eyler (Eğler)](http://mimoza.marmara.edu.tr/~maeyler/)
 
