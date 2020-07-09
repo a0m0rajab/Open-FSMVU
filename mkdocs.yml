@@ -1,3 +1,44 @@
-site_name: My Docs
+# Project information
+site_name: Open FSMVU
+site_url: https://a0m0rajab.github.io/open-fsmvu/
+site_author: Abdurrahman RAJAB
+site_description: >-
+  An informative site about computer engineering in FSMVU university in Turkey, that is aiming to help students to understand the university and be able to know the lessons.
+# Repository
+repo_name: a0m0rajab/open-fsmvu
+repo_url: https://github.com/a0m0rajab/open-fsmvu
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2020 Abdurrahman RAJAB
+
 theme:
   name: material
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search # necessary for search to work
+  - git-revision-date-localized:
+      type: iso_datetime
+
+# Page tree
+nav:
+  - Home: README.md
+  - Computer Engineering: 
+    - Outline: Courses_outline.md
+    # # - First Year:
+    - Second Year:
+      - Discrete struture: second_year/Discrete struture/readme.md
+      - Desgin softwares: second_year/Desgin_softwares.md
+      - Electrical circuits: second_year/Electrical_circuits.md
+    - Third Year: 
+      - Advanced programming: third_year/Advanced_programming.md
+      - Formal Languages and Automata Theory: third_year/Automata.md
+    - Fourth Year: 
+      - Software Project Management: fourth_year/SPM.md
+      - System Programming: fourth_year/System_programming.md
+      - Thesis: Thesis/README.md
+      
+    - Extracurricular: Extracurricular.md

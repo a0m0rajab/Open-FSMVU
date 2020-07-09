@@ -65,6 +65,10 @@ While writing i kept in mind the tools that i have and how to use them, that's w
 
 I decided to list this section to make it easier to check and read. 
 
+#### Turkish Lanuage Checker 
+
+I am a faster typer in english yet when you change the language to turkish, I find it hard to find the places of letters since I am not using it everyday and it has a different layout than english that's why I have used [Turkish character](https://www.turkcekarakter.com/) website to fix my errors and google docs corrector.
+
 #### LaTeX
 
 I fall in love with latex since it makes it easier for you to focus on the writing itself and forget the design. I have used the [overleaf webiste](https://www.overleaf.com/) to generate my latex and take care of few things. 
@@ -99,9 +103,11 @@ The writing syntax was simple:
 For this I just used to take screenshots of each image based on their place then renamed the whole iamges with increament numbers to make it easier to link them with the latex. 
 
 in the thesis i had them like: 
+```
 @foto{foto1.png}{caption}
 @foto{foto2.png}{caption}
 @foto{foto3.png}{caption}
+```
 
 Then used the [rename shell](./rename.sh) to get the names of the Images 
 

@@ -1,4 +1,4 @@
-# Main page
+# Main
 
 ## Summary:
 This project aim to provide the materials and lessons that taught at Fatish sultan mehmet university to those who can't offer studying on it or who wants to get view on it's education system.
@@ -18,59 +18,13 @@ This Guide made to show the Curriculum of Computer engineering
 major in the university and how to study it online ,
 Extra files can be found to show the homeworks and Lessons materials.
 
+## How to contribute: 
 
-## Computer Engineering 
-is a four year practical program.
+If you want to contribute and create your own version of the guide with your experience you can fork this guide, and change the needed part for that.
 
-### First year
-In the first year you learn the basic programming syntax and Main university courses related to engineering like Mathematics .
+If you wanted to fix something from this guide you can open an issue or even pull request it to this guide. 
 
-#### First semester 
-
-| Lesson Name                          | brief info                                                   |
-| --- | --- |
-| Programming Languages 1              | Basic JAVA language                                          |
-| Physic 1                             | Serway 1                                                     |
-| Mathematics 1                        | calculus 1                                                   |
-| introduction to computer engineering | brief history about computing and Computer engineering major |
-
-
-#### Second semester
-
-| Lesson Name             | brief info                              |
-| --- | --- |
-| Programming Languages 2 | Intro to DataBase SQL and GUI with JAVA |
-| Physic 2                | serway 2                                |
-| Mathematics  2          | calculus 2                              |
-
-
-### Second year 
-
-#### Third semester 
-
-| Lesson Name         | brief info                         |
-| --- | --- |
-| Discrete Structures |                                 |
-| Design Software     | An introduction to LabView program |
-| Digital  Systems    | to-fill-soon                       |
-| Electric Circuits   | to-fill-soon                       |
-
-
-#### Forth semester 
-
-| Lesson Name                                   | brief info   |
-| --- | --- |
-| Statistics and Probability                    |           |
-| Data Structures                               | to-fill-soon |
-| Oral and Written Communication in Engineering | to-fill-soon |
-
-### Third year 
-
-
-### Fourth year 
-
-
-### To Do list :
+## To Do list :
 - [ ] Online moocs that can help 
 - [ ] first semester lessons 
 - [ ] second semester compleete lessons .
