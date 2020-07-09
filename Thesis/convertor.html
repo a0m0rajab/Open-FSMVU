@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Latex Convertor</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">LatexConvrtor</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Writing Style</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">University website</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                More
+              </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="#">Help</a>
+                            <a class="dropdown-item" href="#">About</a>
+                            <a class="dropdown-item" href="#">Suppourt</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    Enter Text
+                    <br>
+                    <textarea id=before name="" id="" cols="70" rows="20"></textarea>
+                </div>
+                <!-- <div class="row">
+          <button></button>
+      </div> -->
+                <div class="col-6">
+                    Converted Text
+                    <br>
+                    <textarea id=after name="" id="" cols="70" rows="20" readonly></textarea>
+                </div>
+            </div>
+            <div class="row">
+                <button type="button" onclick="convert()" class="btn btn-primary">convert</button>
+
+
+            </div>
+
+        </div>
+    </main>
+    <footer>
+
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script>
+        function chapter(match,type) {
+            return `\\${type}{${titleCase(match.trim())}}\n`
+        }
+
+        function titleCase(str) {
+   let splitStr = str.toLowerCase().split(' ');
+   for (let i = 0; i < splitStr.length; i++) {
+       splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);     
+   }
+   return splitStr.join(' '); 
+}
+
+        function figure(match) {
+            let firstindex = match.indexOf("{");
+            let secondIndex = match.indexOf("}");
+            return `\\begin{figure}[H]
+    \\centering
+     \\shorthandoff{=}
+    \\includegraphics[width=0.5\\textwidth]{images/${match.substring(firstindex+1,secondIndex)}}
+     \\shorthandon{=}
+    \\caption{${match.substring(secondIndex+2,match.length-1)}}
+    \\label{}
+\\end{figure}`
+
+        }
+
+        function convert() {
+            turk()
+            after.value = after.value.replace(/#{4}(.*?)\n/g, (match) => chapter(match.substring(4,match.length-1),"subsubsection"));
+            after.value = after.value.replace(/#{3}(.*?)\n/g, (match) => chapter(match.substring(3,match.length-1),"subsection"));
+            after.value = after.value.replace(/#{2}(.*?)\n/g, (match) => chapter(match.substring(2,match.length-1),"section"));
+            after.value = after.value.replace(/#{1}(.*?)\n/g, (match) => chapter(match.substring(1,match.length-1),"chapter"));
+            after.value = after.value.replace(/@foto{(.*)}/g, figure);
+        }
+        let tr = [{
+            key: '\\u{g}',
+            value: 'ğ'
+        }, {
+            key: '\\u{G}',
+            value: 'Ğ'
+        }, {
+            key: '\\c{c}',
+            value: 'ç'
+        }, {
+            key: '\\c{C}',
+            value: 'Ç'
+        }, {
+            key: '\\c{s}',
+            value: 'ş'
+        }, {
+            key: '\\c{S}',
+            value: 'Ş'
+        }, {
+            key: '\\"{u}',
+            value: 'ü'
+        }, {
+            key: '\\"{U}',
+            value: 'Ü'
+        }, {
+            key: '\\"{o}',
+            value: 'ö'
+        }, {
+            key: '\\"{O}',
+            value: 'Ö'
+        }, {
+            key: '\\i{}',
+            value: 'ı'
+        }, {
+            key: '\\.{I}',
+            value: 'İ'
+        }];
+
+        function turk() {
+            let regx;
+            let temp = before.value;
+            for (let x of tr) {
+                regx = RegExp(x.value, "g");
+                after.value = temp.replace(regx, x.key);
+                temp = after.value;
+            }
+        }
+       
+        let example = `#Giriş 
+        ## Section
+        ### Subsection
+        #### Sub subsection
+        #            title case o mu?       
+        ##  öyle şöyle şahane
+ğ
+Ğ
+ç
+Ç
+ş
+Ş
+ü
+Ü
+ö
+Ö
+ı
+İ
+@foto{ornekEkran.png}{caption}
+#deneme
+#134
+merhaba`
+        before.value = example;
+        convert();
+    </script>
+
+
+</body>
+
+</html>
+
+<!-- Side notes
+How get devloped? the idea and what is in it for me? what am i doing? 
+https://stackoverflow.com/questions/6109882/regex-match-all-characters-between-two-strings
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring
+https://www.w3schools.com/tags/att_textarea_readonly.asp
+http://w2.syronex.com/jmr/latex-symbols-converter
+https://latex.org/forum/viewtopic.php?t=13585
+https://github.com/transpect/docx2tex
+
+latex file: 
+https://unpkg.com/browse/latex.js@0.12.1/dist/latex.js
+http://w2.syronex.com/jmr/tex/texsym.old.html
+http://www.stat.cmu.edu/~brian/latex/symbols/symbols.html
+https://www.noao.edu/noaoprop/help/symbols/
+https://en.wikipedia.org/wiki/Wikipedia:LaTeX_symbols
+https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols
+https://github.com/kirel/detexify/blob/master/lib/latex/symbols.yaml
+--
+http://w2.syronex.com/jmr/latex-symbols-converter
+great source but limited :( 
+    js = ``;
+for (let b of x ){
+js+=`{key:'\\` + b.split(" – ").join("',value:'") + `'},`
+
+}tto get the json aray.
+
+TODO: Add sections for sub chapter, like sub topics or whatever, 
+Add table -- if was possible and needed, 
+pubblish and write the article about it 
+check feedback from both Uni and students, 
+go further if needed... based on what you got 
+-->
