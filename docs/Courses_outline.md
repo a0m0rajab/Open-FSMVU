@@ -14,9 +14,9 @@ In the first year you learn the basic programming syntax and Main university cou
 | Physic 1                             | Serway 1                                                     |
 | Mathematics 1                        | calculus 1                                                   |
 | introduction to computer engineering | brief history about computing and Computer engineering major |
-|ataturk’s principles and history of turkish revolution	| Brief introduction to the history of turkye |
-|Turkish language | Turkish language basics and grammer |
-|Advanced English | English langauge for engineering |
+|ataturk’s principles and history of turkish revolution	| Brief introduction to the history of turkey |
+|Turkish language | Turkish language basics and grammar |
+|Advanced English | English language for engineering |
 
 #### Second semester
 
@@ -25,9 +25,9 @@ In the first year you learn the basic programming syntax and Main university cou
 | Programming Languages 2 | Intro to DataBase SQL and GUI with JAVA |
 | Physic 2                | serway 2                                |
 | Mathematics  2          | calculus 2                              |
-|Advanced English II | English langauge for engineering |
-|ataturk’s principles and history of turkish revolution II	| Brief introduction to the history of turkye |
-|Turkish language II | Turkish language basics and grammer |
+|Advanced English II | English language for engineering |
+|ataturk’s principles and history of turkish revolution II	| Brief introduction to the history of turkey |
+|Turkish language II | Turkish language basics and grammar |
 | Linear Algebra | introduction to linear algebra  |
 
 
@@ -66,7 +66,7 @@ In the first year you learn the basic programming syntax and Main university cou
 | Lesson Name         | brief info                         |
 | --- | --- |
 | Summer internship ||
-| Operating systmes ||
+| Operating systems ||
 | Database Managing systems ||
 | Advanced programming ||
 | Algorithm Analysis & Design    ||

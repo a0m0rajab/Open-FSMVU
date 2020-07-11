@@ -17,7 +17,7 @@ I would highly suggest anyone who has any kind of feedback to open an issue for 
 
 I will tell you about my journey during writing my thesis in hope that will help you to understand how it went and overcome the obstacles, learn from my mistakes as well. First I will explain the results of both tries to write the thesis then will explain the twist and list the tools I have used.
 
-### First Rund
+### First Round
 
 I could not have a high quality and good thesis at this time, I hardly wrote 8 pages about my work even though it was for a one semester which means about 3 months of work! The problem for me was having a lack of motivation for writing thesis since i felt like i have done nothing and it was simple, beside that I was not sure of the prupose of my writing! why would I write something that can be explained by code? and for whom I am gonna write? All of those questions remained without a satifying answer for me for a while, even during the second semester... 
 

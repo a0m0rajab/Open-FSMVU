@@ -2,17 +2,17 @@
 
 ## Erasmus 
 
-During university yaer you can apply to erasmus and have an experience of studying abroad -- you can check their program with International offiec in the university. 
+During university year you can apply to erasmus and have an experience of studying abroad -- you can check their program with International office in the university. 
 
 ## University Science Clubs 
 
-There is few science clubs and activities in the university wheich you can engage here you will have a list of them to find what's the best for you and join their activities 
+There is few science clubs and activities in the university which you can engage here you will have a list of them to find what's the best for you and join their activities 
 
 ## External Activities 
 
-During your period in the university you can benifits from few international and volunteering programs that can help you to have a better and stronger skills at the next table I have listed few of what I know to check.
+During your period in the university you can benefits from few international and volunteering programs that can help you to have a better and stronger skills at the next table I have listed few of what I know to check.
 
-In general the main benefit will be liablity, swags and suppourt for them to use their programs and products.
+In general the main benefit will be liability, swags and support for them to use their programs and products.
 
 | Program Name | Company |  Brief information | 
 | --- | --- | --- |
