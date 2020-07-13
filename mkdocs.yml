@@ -38,7 +38,9 @@ nav:
       - Formal Languages and Automata Theory: third_year/Automata.md
     - Fourth Year: 
       - Software Project Management: fourth_year/SPM.md
-      - System Programming: fourth_year/System_programming.md
+      - System Programming: fourth_year/System_programming/System_programming.md
+      - Machine Learning: fourth_year/ML/README.md
+      - Web Design: fourth_year/Web_design/README.md
       - Thesis: Thesis/README.md
       
     - Extracurricular: Extracurricular.md

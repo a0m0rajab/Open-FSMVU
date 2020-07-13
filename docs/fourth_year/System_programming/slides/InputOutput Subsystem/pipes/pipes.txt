@@ -1,0 +1,16 @@
+
+pipe kullanımı
+---------------
+
+* Prosesler arası tek yönlü haberleşme yöntemi.
+* Prosesin biri pipe'a yazar, diğeri okur.
+* pipe dolu ise yazmaya çalışan askıya alınır. pipe boşsa okumaya çalışan askıya alınır.
+* yazma ucu kapalıysa okuma ucu EOF gösterir.
+* okuma ucu kapalıysa yazma ucu SIGPIPE sinyali verir.
+* okuma ucu: pipe[0]
+  yazma ucu: pipe[1]
+* isimsiz. Sadece aynı anneden gelen prosesler kullanabiliyor.
+* named pipe --- FIFO
+* pipe için: int pipe(int fildes[2]);  int close(int fd);
+* FIFO için: mkfifo() ve open()
+* pipe son close() ile yok olur, FIFO için unlink() gerekli.

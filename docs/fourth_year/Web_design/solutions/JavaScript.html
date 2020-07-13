@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JavaScript</title>
+</head>
+<body>
+    <input type="text" name="first" id="source">
+    <button onclick="toList()">To list button</button>
+    <div id=target></div>
+
+<script>
+// solution one
+function toList(){
+    let text = source.value
+    let result = `<ol>`
+    for (let i = 0; i < text.length; i++) {
+        result += `<li>${text.charAt(i)}</li>`
+    }
+    target.innerHTML = result + `</ol>`
+}
+// other options for the solution is: to use map instead of for loop, use inputs for the function, or even use doceuemnt get element byID 
+
+</script>
+</body>
+
+</html>

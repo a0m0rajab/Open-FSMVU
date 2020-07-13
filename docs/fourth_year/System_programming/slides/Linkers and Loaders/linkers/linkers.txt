@@ -1,0 +1,35 @@
+nasm -f elf32 russian.asm -o russian.o
+objdump -d russian.o
+	next, even
+
+gcc -c -m32 rusmain.c -o rusmain.o
+objdump -d rusmain.o
+	printf, scanf, russian adresleri boş
+
+gcc russian.o rusmain.o -o russian.dynamic
+objdump -d russian.dynamic
+	printf, scanf, russian adresleri dolu; printf, scanf yok, russian var
+
+gcc -m32 -static russian.o rusmain.o -o russian.static
+objdump
+
+ -d russian.static
+	printf, scanf, russian var
+
+static-dynamic
+gcc -m32 -dynamic russian.o rusmain.o -o russian.dynamic
+
+check executable file sizes
+
+tracing system calls and signals: strace
+strace ./russian.dynamic
+strace ./russian.static
+	open libc.so.6
+
+listing symbols from object files: nm
+nm russian.o
+nm rusmain.o
+	t: text, T: text (global), U: undefined (imported)
+
+nm /lib/libc.so.6
+	printf
