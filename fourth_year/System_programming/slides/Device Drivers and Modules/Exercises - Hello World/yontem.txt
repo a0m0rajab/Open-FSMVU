@@ -1,0 +1,13 @@
+make
+
+loading the module (check with dmesgg):
+
+insmod ./helloWorld.ko
+
+unloading the module (check with dmesg):
+
+rmmod helloWorld
+
+check with lsmod before and after loading
+
+dmesg

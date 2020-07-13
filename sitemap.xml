@@ -1,47 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/Courses_outline/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/Courses_outline/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/second_year/Discrete%20struture/readme/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/second_year/Discrete%20struture/readme/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/second_year/Desgin_softwares/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/second_year/Desgin_softwares/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/second_year/Electrical_circuits/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/second_year/Electrical_circuits/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/third_year/Advanced_programming/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/third_year/Advanced_programming/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/third_year/Automata/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/third_year/Automata/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/fourth_year/SPM/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/third_year/Computer_networks/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/fourth_year/System_programming/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/third_year/Computer_architicture/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/Thesis/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/fourth_year/SPM/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://a0m0rajab.github.io/open-fsmvu/Extracurricular/</loc>
-     <lastmod>2020-07-09</lastmod>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/fourth_year/System_programming/System_programming/</loc>
+     <lastmod>2020-07-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/fourth_year/ML/</loc>
+     <lastmod>2020-07-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/fourth_year/Web_design/</loc>
+     <lastmod>2020-07-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/fourth_year/intro_datamining/</loc>
+     <lastmod>2020-07-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/Thesis/</loc>
+     <lastmod>2020-07-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://a0m0rajab.github.io/Open-FSMVU/Extracurricular/</loc>
+     <lastmod>2020-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
